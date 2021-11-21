@@ -56,7 +56,7 @@ export class ScenaComponent implements AfterViewInit {
     const bottomRightCorner = new THREE.Vector3();
     const topLeftCorner = new THREE.Vector3();
 
-    scene.add(helper);
+    // scene.add(helper);
 
 
     /**
