@@ -1,0 +1,11 @@
+Model Information:
+* title:	Camera Kiev-4AM + Helios
+* source:	https://sketchfab.com/3d-models/camera-kiev-4am-helios-6932f08350dc47179ec8dd1ac0d18ce8
+* author:	Ilya Maksimov (https://sketchfab.com/MiViz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Camera Kiev-4AM + Helios" (https://sketchfab.com/3d-models/camera-kiev-4am-helios-6932f08350dc47179ec8dd1ac0d18ce8) by Ilya Maksimov (https://sketchfab.com/MiViz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

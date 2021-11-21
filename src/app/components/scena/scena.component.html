@@ -1,0 +1,9 @@
+<canvas #refCanvas class="canvas"></canvas>
+<div class="loading" *ngIf="loading">
+    <span>Cargando modelo...</span>
+</div>
+<div class="footer">
+    <button (click)="loadAll('free_porsche_911_carrera_4s')">Porshe 911 4S</button>
+    <button (click)="loadAll('bmw_m3_coupe_e30_1986')">BMW M3</button>
+    <button (click)="loadAll('free_1975_porsche_911_930_turbo')">Porhse 911 Turbo</button>
+</div>

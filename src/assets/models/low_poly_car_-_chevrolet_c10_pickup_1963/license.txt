@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Car - Chevrolet C10 Pickup 1963
+* source:	https://sketchfab.com/3d-models/low-poly-car-chevrolet-c10-pickup-1963-679354c151984747bb74310ec5af8995
+* author:	tedpermana (https://sketchfab.com/tedpermana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Car - Chevrolet C10 Pickup 1963" (https://sketchfab.com/3d-models/low-poly-car-chevrolet-c10-pickup-1963-679354c151984747bb74310ec5af8995) by tedpermana (https://sketchfab.com/tedpermana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

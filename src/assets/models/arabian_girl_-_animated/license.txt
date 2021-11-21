@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arabian Girl - Animated
+* source:	https://sketchfab.com/3d-models/arabian-girl-animated-d03adfb906514062b5dd24bad7d49922
+* author:	tonyflanagan (https://sketchfab.com/tonyflanagan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arabian Girl - Animated" (https://sketchfab.com/3d-models/arabian-girl-animated-d03adfb906514062b5dd24bad7d49922) by tonyflanagan (https://sketchfab.com/tonyflanagan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
